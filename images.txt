@@ -5,6 +5,7 @@ mongo
 getmeili/meilisearch:v1.7.3
 ankane/pgvector:latest
 ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
+ghcr.io/danny-avila/librechat-dev-api:latest
 
 #支持私库
 ##k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
