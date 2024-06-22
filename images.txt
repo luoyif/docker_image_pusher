@@ -6,6 +6,8 @@ getmeili/meilisearch:v1.7.3
 ankane/pgvector:latest
 ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
 ghcr.io/danny-avila/librechat-dev-api:latest
+anqian528/chat2api:latest
+lanqian528/funcaptcha_solver:latest
 
 #支持私库
 ##k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
