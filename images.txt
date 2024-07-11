@@ -1,3 +1,4 @@
+hlohaus789/g4f
 postgres:14
 lanqian528/chat2api:latest
 lanqian528/funcaptcha_solver:latest
